@@ -62,11 +62,11 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-![](img1.JPG)
-![](img2.JPG)
-![](img3.JPG)
-![](img4.JPG)
-![](img5.JPG)
+![](img1.jpg)
+![](img2.jpg)
+![](img3.jpg)
+![](img4.jpg)
+![](img5.jpg)
 
 
 
